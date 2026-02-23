@@ -1,36 +1,32 @@
-# MyBike — Modern Landing Page
+# Nothing
 
-A sleek, responsive landing page for a bicycle shop, built with a focus on modern UI/UX principles and high-quality frontend development.
+A clean, minimalistic, and interactive landing page concept built to showcase design precision and smooth user experience.
 
-## 🔗 Live Demo
-[View Live Project](https://nabeyko.github.io/MyBike-landing-page/)
+## 🔗 Live Preview
+[View Live Demo](https://nabeyko.github.io/MyBike-landing-page/)
 
----
-
-## 📸 Preview
-![Project Preview](https://via.placeholder.com/800x400?text=MyBike+Project+Screenshot) 
-*(Note: Replace this link with a real screenshot of your site later!)*
+## 🎨 Design Reference
+[Figma Design Link](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&p=f)
 
 ---
 
-## 🚀 Key Features
-- **Fully Responsive Design:** Optimized for desktops, tablets, and mobile devices.
-- **Modern UI:** Clean layout with smooth transitions and hover effects.
-- **Interactive Components:** Navigation menu, call-to-action buttons, and product sections.
-- **Pixel Perfect:** Developed with a focus on matching the design specifications accurately.
+## ✨ Key Features
+* **🖱️ Interactive Layout** — Smooth hover animations and transitions that bring the design to life.
+* **🧭 Seamless Scrolling** — Optimized for elegant page flow and user engagement.
+* **📱 Responsive Design** — Perfect viewing experience across all screen sizes (Mobile, Tablet, Desktop).
+* **🌐 Cross-browser Compatibility** — Consistent visuals and performance on all modern browsers.
+* **⚡ Optimized Build** — Fast loading times thanks to Parcel bundling and SCSS optimization.
 
-## 🛠 Tech Stack
-- **HTML5:** Semantic structure for better SEO and accessibility.
-- **CSS3 (SCSS):** Advanced styling with variables, mixins, and BEM methodology.
-- **BEM (Block Element Modifier):** For clean, scalable, and maintainable CSS.
-- **JavaScript:** For interactive elements and mobile menu functionality.
-- **GitHub Pages:** For automated deployment.
+## 🧰 Tech Stack
+* **HTML5** — Semantic, well-structured content layout.
+* **SCSS** — Modular styling with variables, mixins, and nesting.
+* **BEM** — Clean and maintainable naming convention.
+* **Parcel** — Fast bundler for development and production builds.
+* **Git** — Version control and collaboration.
 
-## 📈 What I Learned
-Through this project, I strengthened my skills in **BEM methodology** and **responsive web design**. I practiced creating layouts that work seamlessly across different screen resolutions and improved my ability to write modular, reusable CSS.
+## 🚀 Getting Started
+To run this project locally, follow these steps:
 
----
-
-### 📬 Contact me:
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **Telegram:** @Nabeyko
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Nabeyko/MyBike-landing-page.git
