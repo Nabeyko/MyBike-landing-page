@@ -1,5 +1,4 @@
-# Nothing
-
+# MyBike
 A clean, minimalistic, and interactive landing page concept built to showcase design precision and smooth user experience.
 
 ## 🔗 Live Preview
